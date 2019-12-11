@@ -21,4 +21,5 @@ an EM (Expectation-Maximization) Algorithm sample coin toss 机器学习EM算法
 
 # 版权 License
 *.py file：WTFPL
+
 *.pdf file：CC-BY-NC-ND
