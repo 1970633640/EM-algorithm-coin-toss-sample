@@ -10,10 +10,7 @@ an EM (Expectation-Maximization) Algorithm sample coin toss 机器学习EM算法
 # 用到的数学公式
 那些各种期望啊、对数极大似然估计啊、条件概率条件有多个值啊，看得是云里雾里……这个实验就没用那么多高深的概率论公式，就一个公式：贝叶斯公式。毕竟全靠加减乘除还是不够，贝叶斯公式没学过概率论多想想也是可以相通的。
 
-# 还有pdf？
-这就是个课程作业，干脆把写的报告一起放出来 (pdf中个人信息已删除)
-
-# 懒得看pdf 参考文献呢
+# 参考文献呢
 1. 最早提出抛硬币这个生动形象例子的文章https://www.nature.com/articles/nbt1406.pdf
 2. 对于抛硬币例子解释了具体计算过程而且避免了使用极大对数似然估计、有多个先验概率等高深难懂概率论知识的文章http://www.stokastik.in/em/
 3. 使用了似然率的概念，不过讲解详细的文章https://math.unm.edu/~james/week9-STAT574.pdf
@@ -21,5 +18,3 @@ an EM (Expectation-Maximization) Algorithm sample coin toss 机器学习EM算法
 
 # 版权 License
 *.py file：WTFPL
-
-*.pdf file：CC-BY-NC-ND
